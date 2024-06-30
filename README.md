@@ -1,5 +1,5 @@
 # vaaiisshhh25_portfolio
-#[Project 1: Starbucks Coffee Company webpage](C:/Users/vaishnavi%20%20m/OneDrive/Desktop/starbucksssssssss/sb.html)
+#[Project 1: Starbucks Coffee Company webpage](file:///C:/Users/vaishnavi%20%20m/OneDrive/Desktop/starbucksssssssss/sb.html)
 -This is a landing page for coffee shop.
 -Created this home page using HTML and CSS.
 -It includes Home, Shop, Delivery, App, About and Contact sections.
