@@ -1,5 +1,5 @@
 # vaaiisshhh25_portfolio
-#[Project 1: Starbucks Coffee Company webpage](http://127.0.0.1:5500/sb.html)
+#[Project 1: Starbucks Coffee Company webpage](file:///C:/Users/vaishnavi%20%20m/OneDrive/Desktop/starbucksssssssss/sb.html)
 -This is a landing page for coffee shop.
 -Created this home page using HTML and CSS.
 -It includes Home, Shop, Delivery, App, About and Contact sections.
@@ -10,7 +10,7 @@
 -App section provides our mobile app to order and pay.
 -About section tells us about the serving of company and Contact section shows how to reach out to us.
 
-#[Project 2: Pet Shop Website]?(http://127.0.0.1:5500/index.html)
+#[Project 2: Pet Shop Website]?(file:///C:/Users/vaishnavi%20%20m/OneDrive/Desktop/pet%20shop/index.html)
 Created a pet shop website using :
 -HTML
 -CSS
