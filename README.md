@@ -1,5 +1,5 @@
 # vaaiisshhh25_portfolio
-#[Project 1: Starbucks Coffee Company webpage](http://127.0.0.1:5500/sb.html#contact)
+#[Project 1: Starbucks Coffee Company webpage](http://127.0.0.1:5500/sb.html)
 -This is a landing page for coffee shop.
 -Created this home page using HTML and CSS.
 -It includes Home, Shop, Delivery, App, About and Contact sections.
